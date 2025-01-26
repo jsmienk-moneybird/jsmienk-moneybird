@@ -1,5 +1,1 @@
-Company GitHub account of Jeroen Smienk for Moneybird.
-
-MSc. Interaction Technology
-
-Product Developer
+Product Engineer @ Moneybird. Company GitHub account. MSc. Interaction Technology.
